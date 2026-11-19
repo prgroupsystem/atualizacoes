@@ -1,0 +1,7 @@
+{
+    "versao":  "2.2.0.0",
+    "instalador":  "https://raw.githubusercontent.com/prgroupsystem/atualizacoes/main/galego/Instalar-galego.exe",
+    "sha256":  "aa8350ae8a8965952cf30b89efd73a061bce1377a32f3778785d9e070319b339",
+    "notas":  "Atualizacao automatica, pergunta de CPF na saida",
+    "data":  "2026-11-18 23:09"
+}
