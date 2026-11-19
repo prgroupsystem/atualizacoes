@@ -1,7 +1,7 @@
 {
-    "versao":  "2.3.0.0",
+    "versao":  "2.4.0.0",
     "instalador":  "https://raw.githubusercontent.com/prgroupsystem/atualizacoes/main/galego/Instalar-galego.exe",
-    "sha256":  "847ef9ee8b0ef00649ff37e7600c664119327d8100b04d9e71758bb6ed32519d",
-    "notas":  "Nota em duas perguntas, backup automatico no Google Drive, tutorial e suporte",
-    "data":  "2026-11-19 08:34"
+    "sha256":  "85a3f1d1521561a62d256f923b5296be859ccbd2f3c165a1bcf841b9741c257e",
+    "notas":  "Suporte automatico: chamados enviados direto para a PR Group System",
+    "data":  "2026-11-19 08:41"
 }
