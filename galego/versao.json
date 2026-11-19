@@ -1,7 +1,7 @@
 {
-    "versao":  "2.8.0.0",
-    "instalador":  "https://raw.githubusercontent.com/prgroupsystem/atualizacoes/main/galego/Instalar-galego-2.8.0.0.exe",
-    "sha256":  "4f543628f37271a40bde39618772ac10b0725b6c4ec4b0ce7e2f4114cd13fd0c",
-    "notas":  "Botao Imprimir ticket apos a entrada",
-    "data":  "2026-11-19 09:50"
+    "versao":  "2.9.0.0",
+    "instalador":  "https://raw.githubusercontent.com/prgroupsystem/atualizacoes/main/galego/Instalar-galego-2.9.0.0.exe",
+    "sha256":  "08f7482d5b2b9305c0fa7e54d2e99188b806315e5056265928ed2048df6c8d54",
+    "notas":  "Ticket sem a frase de objetos; mensagem opcional",
+    "data":  "2026-11-19 09:57"
 }
