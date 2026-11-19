@@ -1,7 +1,7 @@
 {
-    "versao":  "2.4.0.0",
-    "instalador":  "https://raw.githubusercontent.com/prgroupsystem/atualizacoes/main/galego/Instalar-galego.exe",
-    "sha256":  "85a3f1d1521561a62d256f923b5296be859ccbd2f3c165a1bcf841b9741c257e",
-    "notas":  "Suporte automatico: chamados enviados direto para a PR Group System",
-    "data":  "2026-11-19 08:41"
+    "versao":  "2.5.0.0",
+    "instalador":  "https://raw.githubusercontent.com/prgroupsystem/atualizacoes/main/galego/Instalar-galego-2.5.0.0.exe",
+    "sha256":  "7e6edadb4c06469f8460bb4a0913eae8d06d4c4ca44214277747ea3065b9af59",
+    "notas":  "Atualizacao segura: mantem a instalacao e so troca os arquivos",
+    "data":  "2026-11-19 08:56"
 }
