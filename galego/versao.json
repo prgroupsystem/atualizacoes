@@ -1,7 +1,7 @@
 {
-    "versao":  "2.5.0.0",
-    "instalador":  "https://raw.githubusercontent.com/prgroupsystem/atualizacoes/main/galego/Instalar-galego-2.5.0.0.exe",
-    "sha256":  "7e6edadb4c06469f8460bb4a0913eae8d06d4c4ca44214277747ea3065b9af59",
-    "notas":  "Atualizacao segura: mantem a instalacao e so troca os arquivos",
-    "data":  "2026-11-19 08:56"
+    "versao":  "2.6.0.0",
+    "instalador":  "https://raw.githubusercontent.com/prgroupsystem/atualizacoes/main/galego/Instalar-galego-2.6.0.0.exe",
+    "sha256":  "9df85485f69f591ee5042f028cd32284c4b3e8fc6a307594ca6e9fdcefbd092f",
+    "notas":  "Ticket com codigo de barras, saida com leitor e impressao direta",
+    "data":  "2026-11-19 09:36"
 }
