@@ -1,7 +1,7 @@
 {
-    "versao":  "2.6.0.0",
-    "instalador":  "https://raw.githubusercontent.com/prgroupsystem/atualizacoes/main/galego/Instalar-galego-2.6.0.0.exe",
-    "sha256":  "9df85485f69f591ee5042f028cd32284c4b3e8fc6a307594ca6e9fdcefbd092f",
-    "notas":  "Ticket com codigo de barras, saida com leitor e impressao direta",
-    "data":  "2026-11-19 09:36"
+    "versao":  "2.7.0.0",
+    "instalador":  "https://raw.githubusercontent.com/prgroupsystem/atualizacoes/main/galego/Instalar-galego-2.7.0.0.exe",
+    "sha256":  "3e6bdc5c6477001f5fbb1dd7f7d21216c7211a9c595b750be604f527942257b4",
+    "notas":  "Atalho traz a janela aberta para a frente",
+    "data":  "2026-11-19 09:46"
 }
