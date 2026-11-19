@@ -1,7 +1,7 @@
 {
-    "versao":  "2.7.0.0",
-    "instalador":  "https://raw.githubusercontent.com/prgroupsystem/atualizacoes/main/galego/Instalar-galego-2.7.0.0.exe",
-    "sha256":  "3e6bdc5c6477001f5fbb1dd7f7d21216c7211a9c595b750be604f527942257b4",
-    "notas":  "Atalho traz a janela aberta para a frente",
-    "data":  "2026-11-19 09:46"
+    "versao":  "2.8.0.0",
+    "instalador":  "https://raw.githubusercontent.com/prgroupsystem/atualizacoes/main/galego/Instalar-galego-2.8.0.0.exe",
+    "sha256":  "4f543628f37271a40bde39618772ac10b0725b6c4ec4b0ce7e2f4114cd13fd0c",
+    "notas":  "Botao Imprimir ticket apos a entrada",
+    "data":  "2026-11-19 09:50"
 }
