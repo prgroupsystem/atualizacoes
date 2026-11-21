@@ -1,7 +1,7 @@
 {
-    "versao":  "3.0.0.0",
-    "instalador":  "https://raw.githubusercontent.com/prgroupsystem/atualizacoes/main/galego/Instalar-galego-3.0.0.0.exe",
-    "sha256":  "b63026a14d10b78ad74cecd8521778edfcc067474ae739019b7aa45d2977817c",
-    "notas":  "Novo visual Liv Parking: logo, cores e menu lateral",
-    "data":  "2026-11-21 09:53"
+    "versao":  "3.1.0.0",
+    "instalador":  "https://raw.githubusercontent.com/prgroupsystem/atualizacoes/main/galego/Instalar-galego-3.1.0.0.exe",
+    "sha256":  "beb9e20ad3ef0c37664abec015cd1ce58f9909f97e0d1e07449425930676639b",
+    "notas":  "Atalho Liv Parking com o icone da Liv",
+    "data":  "2026-11-21 09:57"
 }
